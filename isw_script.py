@@ -2,7 +2,7 @@ import requests
 import time
 import datetime
 
-OUTPUT_FOLDER = "/Users/bober/Desktop/study/naukma/prog_new/hw2/isw"
+OUTPUT_FOLDER = ""
 BASA_URL = "https://understandingwar.org/backgrounder/russian-offensive-campaign-assessment"
 
 def save_page(url, file_name):
