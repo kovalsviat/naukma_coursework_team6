@@ -1,3 +1,4 @@
+##ADDITIONAL METHOD TO DOWNLOAD THE DATA(FEBRUARY 2022 NOT WORKS)
 
 import requests
 import time
